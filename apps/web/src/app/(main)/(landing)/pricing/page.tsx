@@ -88,7 +88,7 @@ const whySub = [
   },
   {
     content:
-      "After the launch, this $49 offer be removed and Opensox Pro will be around ~ $120 for whole year ($10/mo.)",
+      "After the launch, this $49 offer be removed and Opensox Pro will be around ~ $69 for whole year ($10/mo.)",
   },
   {
     content: "The price of the dollar is constantly increasing.",
