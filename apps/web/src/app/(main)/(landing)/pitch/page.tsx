@@ -93,7 +93,7 @@ const Pitch = () => {
                 table of contents
               </h2>
               <nav>
-                <ul className="space-y-1.5 text-text-secondary font-medium text-md lg:text-xl lowercase inline-block">
+                <ul className="space-y-1.5 text-text-secondary font-medium lg:text-xl lowercase inline-block">
                   <li>
                     <a
                       href="#mission-statement"
